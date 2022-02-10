@@ -1,0 +1,100 @@
+{
+  "products": [
+      {
+          "id" : 1,
+          "name" : "face-creme",
+          "price" : 4,
+          "category" : "face", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 2,
+          "name" : "face-masque",
+          "price" : 3,
+          "category" : "face", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 3,
+          "name" : "face-scrub",
+          "price" : 3,
+          "category" : "face", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 4,
+          "name" : "body-creme",
+          "price" : 5,
+          "category" : "body", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 5,
+          "name" : "body-masque",
+          "price" : 4,
+          "category" : "body", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 6,
+          "name" : "body-scrub",
+          "price" : 6,
+          "category" : "body", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 7,
+          "name" : "hand-creme",
+          "price" : 3,
+          "category" : "hand", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 8,
+          "name" : "hand-masque",
+          "price" : 4,
+          "category" : "hand", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 9,
+          "name" : "hand-scrub",
+          "price" : 3,
+          "category" : "hand", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 10,
+          "name" : "foot-creme",
+          "price" : 5,
+          "category" : "foot", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 11,
+          "name" : "foot-masque",
+          "price" : 4,
+          "category" : "foot", 
+          "description" : "paire",
+          "stock" : 50
+      },
+      {
+          "id" : 12,
+          "name" : "foot-scrub",
+          "price" : 4,
+          "category" : "foot", 
+          "description" : "paire",
+          "stock" : 50
+      }
+    ]
+}
